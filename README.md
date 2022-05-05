@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sotozu
 - 👀 I’m interested in game programming, 3D graphics and simulations
 - 🌱 I’m currently learning 3D graphics
-- 💞️ I’m looking to collaborate on games and simulations
+- 💞️ I’m looking to collaborate on interactive projects
 - 📫 How to reach me: alexander.w.soto@gmail.com
 
 <!---
